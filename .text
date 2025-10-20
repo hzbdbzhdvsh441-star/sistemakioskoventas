@@ -1,0 +1,9 @@
+usuario: admin  
+password:admin
+nota: el administrador tiene el privilegio de crear usuarios
+ejemplo creado: 
+usuario: botero
+contraseña:botero123
+
+proyecto: Sistema de ventas
+http://localhost/sistemaKioskoVentas
